@@ -1,0 +1,2 @@
+"""Slot manager package"""
+
